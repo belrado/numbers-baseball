@@ -2,5 +2,5 @@
 $test = 'test';
 $ttt = 'name';
 $myname = "susin";
-$work = "master";
+$work = "masters";
 ?>
