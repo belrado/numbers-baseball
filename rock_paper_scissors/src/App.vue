@@ -1,6 +1,6 @@
 <template>
     <div id="root">
-        <h1>{{title}}</h1>
+        <h1>{{title}}!</h1>
         <div id="computer">
             <div class="rps-text">
                 <strong>{{computerCoord}}</strong>
